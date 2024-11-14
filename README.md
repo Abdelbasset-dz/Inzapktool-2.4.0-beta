@@ -38,7 +38,7 @@ Setting options are saved in inifile and will load on launch
 Other features will be added after "bug fix"
 (if u find, please let me know)
 
-DOWNLOAD : https://www.softpedia.com/get/PORTABLE-SOFTWARE/Programming/INZ-APKTool.shtml
+Updates : https://www.softpedia.com/get/PORTABLE-SOFTWARE/Programming/INZ-APKTool.shtml
 
 Requirements :
 Windows 7 or above
